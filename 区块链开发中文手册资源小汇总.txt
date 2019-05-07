@@ -1,0 +1,17 @@
+1. web3.js API官方文档中文版：https://pan.baidu.com/s/1hOV9hEzi7hFxJCL4LTvC6g
+2. 以太坊官方文档中文版     ：https://pan.baidu.com/s/1ktODJKLMBmkOsi8MPrpIJA
+3. 以太坊白皮书中文版       ：https://pan.baidu.com/s/1bzAFnzJ35hlQxJ2J4Oj-Ow
+4. Solidity的官方文档中文版 ：https://pan.baidu.com/s/18yp9XjEqAHpiFm2ZSCygHw
+5. Truffle的官方文档中文版  ：https://pan.baidu.com/s/1y6SVd7lSLUHK21YF5FzIUQ
+6. C#区块链编程指南         ：https://pan.baidu.com/s/1sJPLqp1eQqkG7jmxqwn3EA
+7. 区块链技术指南：         ：https://pan.baidu.com/s/13cJxAa80I6iMCczA04CZhg
+8. 精通比特币中文版：       ：https://pan.baidu.com/s/1lz6te3wcQuNJm28rFvBfxg
+9. Node.js区块链开发        ：https://pan.baidu.com/s/1Ldpn0DvJ5LgLqwix6eWgyg
+10. geth使用指南文档中文版   ：https://pan.baidu.com/s/1M0WxhmumF_fRqzt_cegnag
+11. 以太坊DApp开发环境搭建-Ubuntu   : https://pan.baidu.com/s/10qL4q-uKooMehv9X2R1qSA
+12. 以太坊DApp开发环境搭建-windows  ：https://pan.baidu.com/s/1cyYkhIJIFuI2oyxM9Ut0eA
+13. 以太坊DApp开发私链搭建-Ubuntu   : https://pan.baidu.com/s/1aBOFZT2bCjD2o0EILBWs-g
+14. 以太坊DApp开发私链搭建-windows  ：https://pan.baidu.com/s/10Y6F1cqUltZNN99aJv9kAA
+15. 以太坊ganache CLI命令行参数详解：https://pan.baidu.com/s/1lnknFkwenacaeM4asOcBdg
+16. 使用truflle和infura部署以太坊合约：https://pan.baidu.com/s/1PTxSVff2vHSVUihYczRRqw
+17. IPFS安装部署与开发环境搭建-windows：https://pan.baidu.com/s/1bnhDvqCoOgAqEBZXMtVbRg

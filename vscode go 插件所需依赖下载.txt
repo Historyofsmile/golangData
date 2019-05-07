@@ -1,0 +1,32 @@
+链接:http://pan.baidu.com/s/1c2Cn9i4  密码:0i7j
+
+# VSCODE Go 插件依赖
+
+由于伟大的墙，在 VSCODE 里 进行 Go 插件安装的时候经常碰到:
+
+```
+Installing xxxxxx FAILED
+```
+
+为了减少墙的干扰，这里提供一份 Go 插件所需工具链的代码。直接解压缩到 `$GOPATH` 下。可以使用脚本：
+
+```bash
+$ ./run.sh unpack vscode_go_deps.xxxxxxx.zip /my/gopath
+```
+
+其中 `/my/gopath` 换成实际的 `$GOPATH`。该目录可忽略，忽略后将自动使用环境变量的 `GOPATH` 中的位置。
+
+然后运行 `run.sh` 中的 `install` 函数即可（或者参照函数里的命令手动执行）：
+
+```bash
+$ ./run.sh install
+```
+
+对于想自己打包的人，可以在国外服务器上，用 `pack` 命令自行打包：
+
+```bash
+$ ./run.sh get
+$ ./run.sh pack
+```
+
+
